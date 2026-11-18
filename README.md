@@ -4,6 +4,8 @@ Please submit all issues related to KoolMC to this repo
 If you want to submit an issue, please use [repository name@type] title as the issue title. Any issues not using this format will be rejected.
 
 For example `[libnbtplusplus@Feature]xxxxxxxxxxxxx`
+
+For example `[KoolMC@Feature;Improve]xxxxxxxxxxxxx`
 # Types
 issue report type: Feature, Bug, Improve
 
