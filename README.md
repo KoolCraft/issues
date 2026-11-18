@@ -1,4 +1,4 @@
-# KoolMC-issues
+# issues
 All issues from KoolCraft's warehouse
 # Rule
 If you want to submit an issue, please use [repository name@type] title as the issue title. Any issues not using this format will be rejected.
